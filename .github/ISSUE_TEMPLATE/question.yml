@@ -1,5 +1,5 @@
 name: Question
-description: Have a question
+description: Ask a question
 title: "Question"
 labels: ["question"]
 assignees:
@@ -18,9 +18,11 @@ body:
     id: question
     attributes:
       label: Question
-      description: Ask away.
+      description: Ask your question here. Try to be as descriptive as possible.
       placeholder: 
       value:
+     validations:
+      required: true
 
   - type: checkboxes
     id: terms
