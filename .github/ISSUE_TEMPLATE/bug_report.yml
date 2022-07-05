@@ -35,8 +35,8 @@ body:
         2.
         3.
         ...
-  validations:
-    required: true
+    validations:
+      required: true
   - type: dropdown
     id: browsers
     attributes:
