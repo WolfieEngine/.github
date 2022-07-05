@@ -1,9 +1,9 @@
 name: Typo
-description: Found a Typo?
+description: Report a Typo
 assignees: 
   - PeteyLumpkins
 labels:
-  - typo
+  - documentation
 body:
   - type: markdown
     attributes:
