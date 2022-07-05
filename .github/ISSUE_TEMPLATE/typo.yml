@@ -7,8 +7,8 @@ labels:
 body:
   - type: markdown
     attributes:
-    value: |
-      Thank you for taking the time to report a typo!
+      value: |
+        Thank you for taking the time to report a typo!
   - type: textarea
     id: where
     attributes:
@@ -28,6 +28,6 @@ body:
       placeholder:
       value:
     validations:
-    required: false
+      required: false
     
    
