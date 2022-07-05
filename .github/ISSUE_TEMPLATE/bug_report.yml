@@ -1,13 +1,13 @@
 name: Bug Report
 description: File a bug report
-title: "[Bug]: "
+title: "Bug"
 labels: ["bug"]
 assignees: PeteyLumpkins
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Hello! Thank you for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
@@ -19,12 +19,24 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      label: Description?
+      description: Please describe the bug the best you can. What happended? What did you expect to happen?
+      placeholder: What happened?
       value: "A bug happened!"
     validations:
       required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      value: |
+        1.
+        2.
+        3.
+        ...
+  validations:
+    required: true
   - type: dropdown
     id: browsers
     attributes:
