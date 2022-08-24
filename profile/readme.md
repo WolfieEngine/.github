@@ -8,6 +8,10 @@ The problem with modern game engines like Phaser is that they are, for lack of a
 
 Finding such a specific game engine is next to impossible, which is why we created Wolfie2D.
 
+### Contributing
+If you're a Stony Brook student and you're interested in working on Wolfie2D, see the contributing guidelines [here](https://github.com/WolfieEngine/.github/blob/main/.github/CONTRIBUTING.md).
+
+
 ### Games
 TBD
 
