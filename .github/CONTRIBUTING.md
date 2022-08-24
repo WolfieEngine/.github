@@ -3,9 +3,10 @@ Thank you for taking the time to contribute to the WolfieEngine! If you're a Sto
 
 ## Table of Contents
 * [Teams](#teams)
-  * [Feature Development](#feature-development-)
-  * [Testing](#testing-)
-  * [Documentation](#documentation-%EF%B8%8F)
+  * [Feature Development](#feature-development)
+  * [Testing](#testing)
+  * [Documentation](#documentation)
+  * [Website](#website)
 * [Fixing a bug](#fixing-a-bug)
 * [Feature Requests](#feature-requests)
 * [Questions](#questions)
@@ -13,14 +14,14 @@ Thank you for taking the time to contribute to the WolfieEngine! If you're a Sto
 ## Teams
 Right now, we are in the process of setting up the various subteams for the WolfieEngine project. The current teams have been outlined below. If you'd like to join one of the teams, please fill out the form linked [here](TBD).
 
-### Feature Development 🚧
+### Feature Development
 #### Prerequisates: CSE-380; CSE-316 or equivalent
 The feature development team is responsible for developing, testing, and maintaing the core subsystems of the Wolfie2D game engine. If you're on this team, you'd better know what you're doing. Some current features we are working on include the following:
 - Adding a playback system that allows games to be recorded and replayed.
 - Adding support for isometric tilemaps.
 - Adding an implementation of A* for pathfinding.
 
-### Testing 🔎
+### Testing
 #### Prerequisates: CSE-216, CSE-260 or equivalent
 The Wolfie2D game engine is built on top of a suite of custom data structures and algorithms. The testing team is responsible for building out our the testing library for Wolfie2D. You should have a solid understanding of data structures and algorithms. You should also be comfortable dealing with math-heavy code. Some example algorithms and data structures you'll be working with are outlined below:
 - Pathfinding Algorithms (A*)
@@ -29,10 +30,13 @@ The Wolfie2D game engine is built on top of a suite of custom data structures an
 - QuadTrees
 - Custom lists, stacks, and queues
 
-### Documentation ✍️
-#### Prequisates: CSE-380
+### Documentation
+#### Prerequisates: CSE-380
 Our goal over the next year is to improve the documentation for Wolfie2D, primarily by adding hard examples and demo games to the engine that demonstrate how to use the various features of the engine, and how to use them *properly*. You should have past experience making games with Wolfie2D. Past experience writing professional documentation is also a plus. 
 
+### Website
+#### Prerequisates: CSE-316; 
+The current Wolfie2D website linked [here](https://zgrandison.github.io/) needs an overhaul. The goal for this team is to create a modern, static website to serve the documentation for Wolfie2D. This is a frontend development project. You should be familiar with Typescript, Javascript, CSS, and HTML.
 
 ## Fixing a Bug
 * First, check to see that there is not an open issue regarding the bug already.
