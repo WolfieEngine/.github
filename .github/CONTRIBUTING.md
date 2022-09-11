@@ -15,14 +15,14 @@ Thank you for taking the time to contribute to the WolfieEngine! If you're a Sto
 Right now, we are in the process of setting up the various subteams for the WolfieEngine project. The current teams have been outlined below. If you'd like to join one of the teams, please fill out the form linked [here](TBD).
 
 ### Feature Development
-#### Prerequisites: CSE-380; CSE-316 or equivalent
+#### Prerequisites: TBD
 The feature development team is responsible for developing, testing, and maintaining the core subsystems of the Wolfie2D game engine. If you're on this team, you'd better know what you're doing. Some current features we are working on include the following:
 - Adding a playback system that allows games to be recorded and replayed.
 - Adding support for isometric tilemaps.
 - Adding an implementation of A* for pathfinding.
 
 ### Testing
-#### Prerequisates: CSE-216, CSE-260 or equivalent
+#### Prerequisates: TBD
 The Wolfie2D game engine is built on top of a suite of custom data structures and algorithms. The testing team is responsible for building out the testing library for Wolfie2D. You should have a solid understanding of data structures and algorithms and be comfortable dealing with math-heavy code. Some example algorithms and data structures you'll be working with
 - Pathfinding Algorithms (A*)
 - Collision Detection Algorithms (SAT)
@@ -31,11 +31,11 @@ The Wolfie2D game engine is built on top of a suite of custom data structures an
 - Custom lists, stacks, and queues
 
 ### Documentation
-#### Prerequisates: CSE-380
+#### Prerequisates: TBD
 Our goal over the next year is to improve the documentation for Wolfie2D, primarily by adding concrete examples and demo games to the engine that demonstrates how to use the engine, and how to use them *properly*. You should have experience making games with Wolfie2D. Experience writing professional documentation is also a plus. 
 
 ### Website
-#### Prerequisates: CSE-316; 
+#### Prerequisates: TBD
 The current Wolfie2D website linked [here](https://zgrandison.github.io/) needs an overhaul. The goal of this team is to create a modern, static website to serve the documentation for Wolfie2D. This is a front-end development project. You should be familiar with Typescript, Javascript, CSS, and HTML.
 
 ## Fixing a Bug
